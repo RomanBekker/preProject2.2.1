@@ -9,7 +9,7 @@ public interface UserDao {
 
     void add(User user);
 
-    void add1(Car car);
+    void addCar(Car car);
 
     List<User> listUsers();
 
